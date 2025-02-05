@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UNITY%20개발자%20이은수&fontSize=50&animation=fadeIn&desc=한국항공대%204학년&descSize=18&descAlignY=85&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UNITY%20개발자%20이은수&fontSize=50&animation=fadeIn&fontAlignY=40&desc=한국항공대%204학년&descSize=18&descAlignY=85&fontColor=000000)
 
 
 
