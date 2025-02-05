@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UNITY%20개발자%20이은수&fontSize=50&animation=fadeIn&fontAlignY=40&desc=한국항공대%204학년&descSize=18&descAlignY=65&fontColor=000000)
 
+
 ### Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavingwind&layout=compact)
 
@@ -8,7 +9,8 @@
 <!--C-->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <!--C#-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat"/>
+
 
 
 
