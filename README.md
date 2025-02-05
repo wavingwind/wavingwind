@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wavingwind
+- 👋 Hi, I’m 이은수
 - 👀 I’m interested in 인방시청
 - 🌱 I’m currently learning 알고리즘
 - 💞️ I’m looking to collaborate on ...
