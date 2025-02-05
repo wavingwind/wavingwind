@@ -8,6 +8,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=UNITY개발자%20이은수&fontSize=80)
 
+[![wavingWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavingwind)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 wavingwind/wavingwind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
