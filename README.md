@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving!&color=auto&height=300&section=header&text=UNITY개발자%20이은수&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=UNITY개발자%20이은수&fontSize=80)
 
 - 👋 Hi, I’m 이은수
 - 👀 I’m interested in 인방시청
