@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UNITY%20개발자%20이은수&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=UNITY%20개발자%20이은수&fontSize=50&animation=blinking)
 
 
 [![wavingwind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavingwind)](https://github.com/anuraghazra/github-readme-stats)
