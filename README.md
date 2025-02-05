@@ -9,7 +9,7 @@
 
 
 
-[![은수's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavingwind)](https://github.com/anuraghazra/github-readme-stats)
+[![wavingwind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavingwind)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
