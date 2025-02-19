@@ -8,6 +8,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavingwind&layout=compact)
 
 
+### IDE
+<!--Visual Sturio-->
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+
 
 ### Github Stats
 [![wavingwind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wavingwind)](https://github.com/anuraghazra/github-readme-stats)
