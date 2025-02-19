@@ -8,6 +8,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wavingwind&layout=compact)
 
 
+### OS
+<!--Window-->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+
 ### IDE
 <!--Visual Sturio-->
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
