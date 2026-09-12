@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 * 🎓 **Major**: 물류전공 / **Minor**: 소프트웨어전공
-* 🎯 **Goal**: Logistics Domain Knowledge 기반의 **Data Analyst (DA)**
+* 🎯 **Goal**: Logistics Domain Knowledge 기반 **Data Analyst (DA)**
 * 🛠️ **Focus**: 물류 데이터 분석, AI & Big Data 응용, 데이터 기반 의사결정 모델링
 
 <br/>
