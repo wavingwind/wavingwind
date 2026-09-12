@@ -32,11 +32,11 @@
 <br/>
 
 💡 **Interest & Practice**
-* **LLM Prompt Engineering & Context Control**: <br/>
-- LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성
-- Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝
-* **Automation**: <br/>
-- Lua 기반 로직 모듈화 및 반복 작업 자동화
+* **LLM Prompt Engineering & Context Control**
+  - LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성
+  - Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝
+* **Automation**
+  - Lua 기반 로직 모듈화 및 반복 작업 자동화
 
 <br/><br/>
 
