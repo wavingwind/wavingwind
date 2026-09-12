@@ -113,4 +113,6 @@
 
 <br/>
 
-* ✉️ **Email**: `cat958@naver.com`
+| Channel | Address |
+| :--- | :--- |
+| **Naver Mail** | `cat958@naver.com` |
