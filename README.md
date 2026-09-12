@@ -111,14 +111,12 @@
 
 ## 📫 Contact & Connect
 
-
-
 <br/>
 
+<a href="mailto:cat958@naver.com">
+  <img src="https://img.shields.io/badge/NAVER_MAIL-03CF5D?style=for-the-badge&logo=naver&logoColor=white">
+</a>
 
-
-<a href="mailto:cat958@naver.com"><img src="https://img.shields.io/badge/NAVER_MAIL-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/></a> **cat958@naver.com**
-
-
+cat958@naver.com
 
 <br/>
