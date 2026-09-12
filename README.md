@@ -15,7 +15,7 @@
 
 <br/>
 
-<h3>🎓 Education</h3>
+<span style="font-size: 20px; font-weight: bold;">🎓 Education</span>
 <ul>
   <li><b>Major</b> : 물류전공</li>
   <li><b>Minor</b> : 소프트웨어전공</li>
@@ -23,14 +23,14 @@
 
 <br/>
 
-<h3>🎯 Goal</h3>
+<span style="font-size: 20px; font-weight: bold;">🎯 Goal</span>
 <ul>
   <li>Logistics Domain Knowledge 기반 <b>Data Analyst (DA)</b></li>
 </ul>
 
 <br/>
 
-<h3>🛠️ Focus</h3>
+<span style="font-size: 20px; font-weight: bold;">🛠️ Focus</span>
 <ul>
   <li>물류 및 유통 데이터 분석 (Supply Chain & Logistics Optimization)</li>
   <li>데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)</li>
@@ -39,7 +39,7 @@
 
 <br/>
 
-<h3>💡 Interest & Practice</h3>
+<span style="font-size: 20px; font-weight: bold;">💡 Interest & Practice</span>
 <ul>
   <li><b>LLM Prompt Engineering & Context Control</b>
     <ul>
