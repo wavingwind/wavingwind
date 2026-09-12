@@ -15,30 +15,44 @@
 
 <br/>
 
-#### 🎓 Education
-* **Major** : 물류전공
-* **Minor** : 소프트웨어전공
+<h3>🎓 Education</h3>
+<ul>
+  <li><b>Major</b> : 물류전공</li>
+  <li><b>Minor</b> : 소프트웨어전공</li>
+</ul>
 
-<br/><br/>
+<br/>
 
-#### 🎯 Goal
-* Logistics Domain Knowledge 기반 **Data Analyst (DA)**
+<h3>🎯 Goal</h3>
+<ul>
+  <li>Logistics Domain Knowledge 기반 <b>Data Analyst (DA)</b></li>
+</ul>
 
-<br/><br/>
+<br/>
 
-#### 🛠️ Focus
-* 물류 및 유통 데이터 분석 (Suppy Chain & Logistics Optimization)
-* 데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)
-* 데이터 기반 의사결정 모델링 (Data-driven Decision Making)
+<h3>🛠️ Focus</h3>
+<ul>
+  <li>물류 및 유통 데이터 분석 (Supply Chain & Logistics Optimization)</li>
+  <li>데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)</li>
+  <li>데이터 기반 의사결정 모델링 (Data-driven Decision Making)</li>
+</ul>
 
-<br/><br/>
+<br/>
 
-#### 💡 Interest & Practice
-* **LLM Prompt Engineering & Context Control**
-  - LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성
-  - Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝
-* **Automation**
-  - Lua 기반 로직 모듈화 및 반복 작업 자동화
+<h3>💡 Interest & Practice</h3>
+<ul>
+  <li><b>LLM Prompt Engineering & Context Control</b>
+    <ul>
+      <li>LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성</li>
+      <li>Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝</li>
+    </ul>
+  </li>
+  <li><b>Automation</b>
+    <ul>
+      <li>Lua 기반 로직 모듈화 및 반복 작업 자동화</li>
+    </ul>
+  </li>
+</ul>
 
 <br/><br/>
 
