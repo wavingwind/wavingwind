@@ -1,6 +1,7 @@
 # Hi there, I'm wavingwind 👋
 
-> **Developing & Learning** | Python, C, and Lua
+> **Developing & Learning** | <br/>
+Python, C, and Lua
 
 <br/>
 
