@@ -22,7 +22,8 @@
 <br/><br/>
 
 ### 🎯 Goal
-- Logistics Domain Knowledge 기반 **Data Analyst (DA)**
+
+### Logistics Domain Knowledge 기반 **Data Analyst (DA)**
 
 <br/><br/>
 
@@ -120,5 +121,3 @@
 <br/>
 
 📧 **cat958@naver.com**
-
-<br/><br/>
