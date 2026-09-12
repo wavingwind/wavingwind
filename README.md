@@ -1,4 +1,3 @@
-# Hi there, I'm wavingwind 👋
 
 > **Developing & Learning** | <br/>
 : Python, C, and Lua
