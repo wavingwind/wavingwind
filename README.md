@@ -19,19 +19,19 @@
 * **Major** : 물류전공
 * **Minor** : 소프트웨어전공
 
-<br/>
+<br/><br/>
 
 🎯 **Goal**
 * Logistics Domain Knowledge 기반 **Data Analyst (DA)**
 
-<br/>
+<br/><br/>
 
 🛠️ **Focus**
 * 물류 및 유통 데이터 분석 (Suppy Chain & Logistics Optimization)
 * 데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)
 * 데이터 기반 의사결정 모델링 (Data-driven Decision Making)
 
-<br/>
+<br/><br/>
 
 💡 **Interest & Practice**
 * **LLM Prompt Engineering & Context Control**
