@@ -13,6 +13,8 @@
 
 ### 👨‍💻 About Me
 
+<br/>
+
 🎓 **Education**
 * **Major** : 물류전공
 * **Minor** : 소프트웨어전공
