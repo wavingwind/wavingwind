@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <h1>✨ WavingWind's Profile ✨</h1>
+  <h1>✨ WavingWind ✨</h1>
   <p><b>Logistics & Software Engineering | Data Analysis</b></p>
   <br/>
 </div>
