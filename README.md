@@ -114,7 +114,7 @@
 <br/>
 
 <a href="mailto:cat958@naver.com">
-  <img src="https://img.shields.io/badge-cat958%40naver.com-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/email-cat958%40naver.com-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>
 </a>
 
 <br/>
