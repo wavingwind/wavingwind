@@ -23,7 +23,7 @@
 
 ### 🎯 Goal
 
-### Logistics Domain Knowledge 기반 **Data Analyst (DA)**
+### : Logistics Domain Knowledge 기반 **Data Analyst (DA)**
 
 <br/><br/>
 
