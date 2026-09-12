@@ -91,10 +91,6 @@
 
 ### 🚀 Projects
 
-### 🚀 Projects
-
-### 🚀 Projects
-
 🍱 **[밥항공기]** - Gourmet food club web platform (Next.js, Supabase, Vercel)
 
 <br/>
