@@ -113,8 +113,11 @@
 
 <br/>
 
-<a href="mailto:cat958@naver.com">
-  <img src="https://img.shields.io/badge/cat958%40naver.com-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="mailto:cat958@naver.com">
+    <img src="https://img.shields.io/badge/NAVER_MAIL-03CF5D?style=for-the-badge&logo=naver&logoColor=white" align="center"/>
+  </a>
+  &nbsp;&nbsp;<b>cat958@naver.com</b>
+</p>
 
 <br/>
