@@ -11,48 +11,34 @@
 
 <br/>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <br/>
 
-<span style="font-size: 20px; font-weight: bold;">🎓 Education</span>
-<ul>
-  <li><b>Major</b> : 물류전공</li>
-  <li><b>Minor</b> : 소프트웨어전공</li>
-</ul>
+### 🎓 Education
+- **Major** : 물류전공
+- **Minor** : 소프트웨어전공
 
-<br/>
+<br/><br/>
 
-<span style="font-size: 20px; font-weight: bold;">🎯 Goal</span>
-<ul>
-  <li>Logistics Domain Knowledge 기반 <b>Data Analyst (DA)</b></li>
-</ul>
+### 🎯 Goal
+- Logistics Domain Knowledge 기반 **Data Analyst (DA)**
 
-<br/>
+<br/><br/>
 
-<span style="font-size: 20px; font-weight: bold;">🛠️ Focus</span>
-<ul>
-  <li>물류 및 유통 데이터 분석 (Supply Chain & Logistics Optimization)</li>
-  <li>데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)</li>
-  <li>데이터 기반 의사결정 모델링 (Data-driven Decision Making)</li>
-</ul>
+### 🛠️ Focus
+- 물류 및 유통 데이터 분석 (Supply Chain & Logistics Optimization)
+- 데이터 전처리 및 탐색적 데이터 분석 (EDA / Feature Engineering)
+- 데이터 기반 의사결정 모델링 (Data-driven Decision Making)
 
-<br/>
+<br/><br/>
 
-<span style="font-size: 20px; font-weight: bold;">💡 Interest & Practice</span>
-<ul>
-  <li><b>LLM Prompt Engineering & Context Control</b>
-    <ul>
-      <li>LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성</li>
-      <li>Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝</li>
-    </ul>
-  </li>
-  <li><b>Automation</b>
-    <ul>
-      <li>Lua 기반 로직 모듈화 및 반복 작업 자동화</li>
-    </ul>
-  </li>
-</ul>
+### 💡 Interest & Practice
+- **LLM Prompt Engineering & Context Control**
+  - LLM 응답 품질 최적화를 위한 샌드박스(RisuAI) 환경 기반 Custom Prompt 작성
+  - Thinking Level/파라미터 조정 및 Context Window 최적화 튜닝
+- **Automation**
+  - Lua 기반 로직 모듈화 및 반복 작업 자동화
 
 <br/><br/>
 
@@ -60,7 +46,9 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+<br/>
 
 ### Languages
 <p>
@@ -103,14 +91,16 @@
 
 <br/>
 
-### 🚀 Projects
+## 🚀 Projects
 
-#### 🍱 [밥항공기]
+<br/>
+
+### 🍱 [밥항공기]
 - Gourmet food club web platform (Next.js, Supabase, Vercel)
 
 <br/>
 
-#### 💊 [AI약사]
+### 💊 [AI약사]
 - AI-powered medicine search Android application (Kotlin)
 
 <br/><br/>
@@ -119,7 +109,9 @@
 
 <br/>
 
-### 📫 Contact & Connect
+## 📫 Contact & Connect
+
+<br/>
 
 <a href="mailto:cat958@naver.com">
   <img src="https://img.shields.io/badge/Naver_Mail-cat958%40naver.com-03CF5D?style=for-the-badge&logo=naver&logoColor=white"/>
