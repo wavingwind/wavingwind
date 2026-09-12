@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eunsu%20Lee%20(wavingwind)&fontSize=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WavingWind&fontSize=35&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
