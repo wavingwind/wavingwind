@@ -92,8 +92,8 @@
 ### 🚀 Projects
 
 * 🍱 **[밥항공기]** - Gourmet food club web platform (Next.js, Supabase, Vercel)
+<br/>
 * 💊 **[AI약사]** - AI-powered medicine search Android application (Kotlin)
-* 📊 **[Logistics EDA Project]** - `추가 분석 프로젝트 입력 예정`
 
 <br/><br/>
 
